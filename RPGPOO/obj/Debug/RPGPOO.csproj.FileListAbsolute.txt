@@ -1,0 +1,15 @@
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\bin\Debug\RPGPOO.exe.config
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\bin\Debug\RPGPOO.exe
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\bin\Debug\RPGPOO.pdb
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.csprojAssemblyReference.cache
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.Properties.Resources.resources
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.csproj.GenerateResource.cache
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.csproj.CoreCompileInputs.cache
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.exe
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.pdb
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.CriacaoDePersonagem.resources
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.EscolhaDeClasse.resources
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.Cidade.resources
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.telaBatalha.resources
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.Mercado.resources
+C:\Users\dmcsh\source\repos\RPGPOO\RPGPOO\obj\Debug\RPGPOO.GameOver.resources
