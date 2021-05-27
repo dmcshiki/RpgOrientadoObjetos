@@ -15,7 +15,7 @@ namespace RPGPOO
         public GameOver()
         {
             InitializeComponent();
-            //tocarMusica();
+            tocarMusica();
         }
         public void tocarMusica()
         {
