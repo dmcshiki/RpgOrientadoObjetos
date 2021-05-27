@@ -18,7 +18,7 @@ namespace RPGPOO
         public CriacaoDePersonagem(string classe)
         {
             InitializeComponent();
-            //tocarMusica();
+            tocarMusica();
             this.classe = classe;
         }
         public void tocarMusica()
