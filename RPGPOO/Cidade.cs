@@ -36,7 +36,7 @@ namespace RPGPOO
                 imgHeroi.BackgroundImage = new Bitmap(@"..\..\Imagens\mago.png");
                 imgHeroi.SizeMode = PictureBoxSizeMode.StretchImage;
             }
-            //tocarMusica();
+            tocarMusica();
         }
 
         public void atualizavalores()
